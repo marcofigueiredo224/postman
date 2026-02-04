@@ -1,0 +1,16 @@
+
+{
+  "info": {
+    "name": "API - JSONPlaceholder (Portfolio)",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "GET /posts/1",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/posts/1"
+      }
+    }
+  ]
+}
